@@ -11,6 +11,7 @@ public class App {
         System.out.println("TESTNEWBRANCH");
 
         System.out.println("Commit 1");
+        System.out.println("commit2");
     }
 
     public static void main(String[] args) {
