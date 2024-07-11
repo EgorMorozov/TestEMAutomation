@@ -9,6 +9,8 @@ public class App {
         System.out.println("TestPull");
         System.out.println("TestFetch");
         System.out.println("TESTNEWBRANCH");
+
+        System.out.println("Commit 1");
     }
 
     public static void main(String[] args) {
