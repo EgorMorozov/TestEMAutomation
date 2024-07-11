@@ -9,6 +9,8 @@ public class App {
         System.out.println("TestPull");
         System.out.println("TestFetch");
         System.out.println("TESTNEWBRANCH");
+
+        System.out.println("I am merge conflict");
     }
 
     public static void main(String[] args) {
